@@ -1,1 +1,5 @@
-# nhl-team-player-valuation
+Included in this repo is an NHL team and player valuation project with a focus on the Detroit Red Wings. First, the relationship between spending and winning is examined by comparing Detroit's cash payroll and salary cap to the rest of the league. Next, several discounted cash flow analyses are run to determine an ideal, hypothetical sales price of the team and the cost control required to make the sale profitable in five years time. The relationship between player production and salary is then considered by once again comparing Detroit to the league. Finally, constrained optimization was used to identify which free agents should be acquired in the stead of under-performing Red Wings players. 
+
+Be sure to check out the write-up in 'documentation' for a detailed report that includes discussion of data acquisition, methods, analyses, recommendations, and limitations!
+
+Data for this project was acquired from Forbes.com and capfriendly.com. Please note that due to the continually updated free agent list on capfriendly.com, a user replicating this work may not receive the same results as were presented in the original report. 
